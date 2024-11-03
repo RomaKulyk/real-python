@@ -1,0 +1,9 @@
+Web scraping is the automated process of extracting data from the internet.
+The Python libraries Requests and Beautiful Soup are powerful tools for the job.
+Challenges of Web scraping:
+- Variety: every website is different.
+- Durability: websites constantly change.
+
+Step 1: Inspect your data source
+Step 2: Scrape HTML content from a page
+Step 3: Parse HTML code with Beautiful Soup
